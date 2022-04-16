@@ -1,0 +1,29 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "1": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "2": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "3": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "5": {
+      "item": "zeiyocraft:zaffiro"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_zaffiro_helmet",
+    "count": 1
+  }
+}

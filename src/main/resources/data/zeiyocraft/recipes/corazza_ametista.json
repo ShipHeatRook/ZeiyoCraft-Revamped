@@ -1,0 +1,39 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:ametista"
+    },
+    "2": {
+      "item": "zeiyocraft:ametista"
+    },
+    "3": {
+      "item": "zeiyocraft:ametista"
+    },
+    "4": {
+      "item": "zeiyocraft:ametista"
+    },
+    "5": {
+      "item": "zeiyocraft:ametista"
+    },
+    "6": {
+      "item": "zeiyocraft:ametista"
+    },
+    "7": {
+      "item": "zeiyocraft:ametista"
+    },
+    "8": {
+      "item": "zeiyocraft:ametista"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_ametista_chestplate",
+    "count": 1
+  }
+}

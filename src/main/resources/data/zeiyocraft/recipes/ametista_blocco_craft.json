@@ -1,0 +1,42 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:ametista"
+    },
+    "1": {
+      "item": "zeiyocraft:ametista"
+    },
+    "2": {
+      "item": "zeiyocraft:ametista"
+    },
+    "3": {
+      "item": "zeiyocraft:ametista"
+    },
+    "4": {
+      "item": "zeiyocraft:ametista"
+    },
+    "5": {
+      "item": "zeiyocraft:ametista"
+    },
+    "6": {
+      "item": "zeiyocraft:ametista"
+    },
+    "7": {
+      "item": "zeiyocraft:ametista"
+    },
+    "8": {
+      "item": "zeiyocraft:ametista"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:ametista_blocco",
+    "count": 1
+  }
+}

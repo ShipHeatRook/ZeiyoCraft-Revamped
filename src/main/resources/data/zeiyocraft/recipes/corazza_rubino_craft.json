@@ -1,0 +1,39 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:rubino"
+    },
+    "2": {
+      "item": "zeiyocraft:rubino"
+    },
+    "3": {
+      "item": "zeiyocraft:rubino"
+    },
+    "4": {
+      "item": "zeiyocraft:rubino"
+    },
+    "5": {
+      "item": "zeiyocraft:rubino"
+    },
+    "6": {
+      "item": "zeiyocraft:rubino"
+    },
+    "7": {
+      "item": "zeiyocraft:rubino"
+    },
+    "8": {
+      "item": "zeiyocraft:rubino"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_rubino_chestplate",
+    "count": 1
+  }
+}

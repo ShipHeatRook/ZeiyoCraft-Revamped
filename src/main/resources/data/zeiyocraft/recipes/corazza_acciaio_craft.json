@@ -1,0 +1,39 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "2": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "3": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "4": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "5": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "6": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "7": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "8": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_acciaio_chestplate",
+    "count": 1
+  }
+}

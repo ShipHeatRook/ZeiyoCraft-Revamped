@@ -1,0 +1,29 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "1": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "2": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "3": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "5": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_acciaio_helmet",
+    "count": 1
+  }
+}

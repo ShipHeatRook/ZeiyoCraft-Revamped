@@ -1,0 +1,29 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:rubino"
+    },
+    "1": {
+      "item": "zeiyocraft:rubino"
+    },
+    "2": {
+      "item": "zeiyocraft:rubino"
+    },
+    "3": {
+      "item": "zeiyocraft:rubino"
+    },
+    "5": {
+      "item": "zeiyocraft:rubino"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_rubino_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "2": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "3": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "4": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "5": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "6": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "7": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "8": {
+      "item": "zeiyocraft:madreperla"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_madreperla_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "1": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "2": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "3": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "4": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "5": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "6": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "7": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "8": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:rame_blocco",
+    "count": 1
+  }
+}

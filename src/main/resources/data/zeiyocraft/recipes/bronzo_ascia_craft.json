@@ -1,0 +1,30 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "1": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "zeiyocraft:bronzo_lingotto"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:bronzo_ascia",
+    "count": 1
+  }
+}

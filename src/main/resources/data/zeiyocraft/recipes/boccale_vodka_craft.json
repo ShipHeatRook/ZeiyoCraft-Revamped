@@ -1,0 +1,26 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:estratto_vodka"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "zeiyocraft:estratto_vodka"
+    },
+    "4": {
+      "item": "zeiyocraft:boccale"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:boccale_vodka",
+    "count": 1
+  }
+}

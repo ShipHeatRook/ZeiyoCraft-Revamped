@@ -1,0 +1,36 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:onice"
+    },
+    "1": {
+      "item": "zeiyocraft:onice"
+    },
+    "2": {
+      "item": "zeiyocraft:onice"
+    },
+    "3": {
+      "item": "zeiyocraft:onice"
+    },
+    "5": {
+      "item": "zeiyocraft:onice"
+    },
+    "6": {
+      "item": "zeiyocraft:onice"
+    },
+    "8": {
+      "item": "zeiyocraft:onice"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_onice_leggings",
+    "count": 1
+  }
+}

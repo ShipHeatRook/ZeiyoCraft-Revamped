@@ -1,0 +1,26 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:apple"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "zeiyocraft:boccale"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:boccale_sidro",
+    "count": 1
+  }
+}

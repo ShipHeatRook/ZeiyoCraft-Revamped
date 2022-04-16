@@ -1,0 +1,27 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "1": {
+      "item": "zeiyocraft:acciaio_lingotto"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:acciaio_zappa",
+    "count": 1
+  }
+}

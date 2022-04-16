@@ -1,0 +1,39 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:giada"
+    },
+    "2": {
+      "item": "zeiyocraft:giada"
+    },
+    "3": {
+      "item": "zeiyocraft:giada"
+    },
+    "4": {
+      "item": "zeiyocraft:giada"
+    },
+    "5": {
+      "item": "zeiyocraft:giada"
+    },
+    "6": {
+      "item": "zeiyocraft:giada"
+    },
+    "7": {
+      "item": "zeiyocraft:giada"
+    },
+    "8": {
+      "item": "zeiyocraft:giada"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_giada_chestplate",
+    "count": 1
+  }
+}

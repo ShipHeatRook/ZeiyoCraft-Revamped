@@ -1,0 +1,39 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "2": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "3": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "4": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "5": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "6": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "7": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "8": {
+      "item": "zeiyocraft:zaffiro"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_zaffiro_chestplate",
+    "count": 1
+  }
+}

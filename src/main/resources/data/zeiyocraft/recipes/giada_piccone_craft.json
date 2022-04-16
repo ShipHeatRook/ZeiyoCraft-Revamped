@@ -1,0 +1,30 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:giada"
+    },
+    "1": {
+      "item": "zeiyocraft:giada"
+    },
+    "2": {
+      "item": "zeiyocraft:giada"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:giada_piccone",
+    "count": 1
+  }
+}

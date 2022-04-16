@@ -1,0 +1,36 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:electrum_lingotto"
+    },
+    "1": {
+      "item": "zeiyocraft:electrum_lingotto"
+    },
+    "2": {
+      "item": "zeiyocraft:electrum_lingotto"
+    },
+    "3": {
+      "item": "zeiyocraft:electrum_lingotto"
+    },
+    "5": {
+      "item": "zeiyocraft:electrum_lingotto"
+    },
+    "6": {
+      "item": "zeiyocraft:electrum_lingotto"
+    },
+    "8": {
+      "item": "zeiyocraft:electrum_lingotto"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_electrum_leggings",
+    "count": 1
+  }
+}

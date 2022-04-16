@@ -1,0 +1,29 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "1": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "2": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "3": {
+      "item": "zeiyocraft:madreperla"
+    },
+    "5": {
+      "item": "zeiyocraft:madreperla"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_madreperla_helmet",
+    "count": 1
+  }
+}

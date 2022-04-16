@@ -1,0 +1,36 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:malto_semi"
+    },
+    "1": {
+      "item": "zeiyocraft:malto_semi"
+    },
+    "2": {
+      "item": "zeiyocraft:malto_semi"
+    },
+    "3": {
+      "item": "zeiyocraft:malto_semi"
+    },
+    "4": {
+      "item": "minecraft:water_bucket"
+    },
+    "5": {
+      "item": "zeiyocraft:malto_semi"
+    },
+    "7": {
+      "item": "zeiyocraft:boccale"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:boccale_birra",
+    "count": 1
+  }
+}
