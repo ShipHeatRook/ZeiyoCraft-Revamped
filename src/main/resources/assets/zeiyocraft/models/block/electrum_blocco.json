@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/electrumblock",
+    "up": "zeiyocraft:blocks/electrumblock",
+    "north": "zeiyocraft:blocks/electrumblock",
+    "east": "zeiyocraft:blocks/electrumblock",
+    "south": "zeiyocraft:blocks/electrumblock",
+    "west": "zeiyocraft:blocks/electrumblock",
+    "particle": "zeiyocraft:blocks/electrumblock"
+  }
+}

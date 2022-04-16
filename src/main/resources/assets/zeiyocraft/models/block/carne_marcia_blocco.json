@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/rottenfleshblock",
+    "up": "zeiyocraft:blocks/rottenfleshblock",
+    "north": "zeiyocraft:blocks/rottenfleshblock",
+    "east": "zeiyocraft:blocks/rottenfleshblock",
+    "south": "zeiyocraft:blocks/rottenfleshblock",
+    "west": "zeiyocraft:blocks/rottenfleshblock",
+    "particle": "zeiyocraft:blocks/rottenfleshblock"
+  }
+}

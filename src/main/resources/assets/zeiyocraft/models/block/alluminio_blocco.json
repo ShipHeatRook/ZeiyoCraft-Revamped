@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/tinblock",
+    "up": "zeiyocraft:blocks/tinblock",
+    "north": "zeiyocraft:blocks/tinblock",
+    "east": "zeiyocraft:blocks/tinblock",
+    "south": "zeiyocraft:blocks/tinblock",
+    "west": "zeiyocraft:blocks/tinblock",
+    "particle": "zeiyocraft:blocks/tinblock"
+  }
+}

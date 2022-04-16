@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/copperore",
+    "up": "zeiyocraft:blocks/copperore",
+    "north": "zeiyocraft:blocks/copperore",
+    "east": "zeiyocraft:blocks/copperore",
+    "south": "zeiyocraft:blocks/copperore",
+    "west": "zeiyocraft:blocks/copperore",
+    "particle": "zeiyocraft:blocks/copperore"
+  }
+}

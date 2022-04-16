@@ -1,0 +1,11 @@
+{
+  "parent": "zeiyocraft:custom/blockchocolatecake_slice6",
+  "textures": {
+    "all": "zeiyocraft:blocks/blockchocolatecake_side",
+    "particle": "zeiyocraft:blocks/blockchocolatecake_side",
+    "side": "zeiyocraft:blocks/blockchocolatecake_side",
+    "top": "zeiyocraft:blocks/blockchocolatecake_top",
+    "bottom": "zeiyocraft:blocks/blockchocolatecake_bottom",
+    "inside": "zeiyocraft:blocks/blockchocolatecake_inner"
+  }
+}

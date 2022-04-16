@@ -1,0 +1,11 @@
+{
+  "parent": "zeiyocraft:custom/blockweirdcake_slice1",
+  "textures": {
+    "all": "zeiyocraft:blocks/blockweirdcake_side",
+    "particle": "zeiyocraft:blocks/blockweirdcake_side",
+    "side": "zeiyocraft:blocks/blockweirdcake_side",
+    "top": "zeiyocraft:blocks/blockweirdcake_top",
+    "bottom": "zeiyocraft:blocks/blockweirdcake_bottom",
+    "inside": "zeiyocraft:blocks/blockweirdcake_inner"
+  }
+}

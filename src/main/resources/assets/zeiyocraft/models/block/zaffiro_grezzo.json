@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/sapphireore",
+    "up": "zeiyocraft:blocks/sapphireore",
+    "north": "zeiyocraft:blocks/sapphireore",
+    "east": "zeiyocraft:blocks/sapphireore",
+    "south": "zeiyocraft:blocks/sapphireore",
+    "west": "zeiyocraft:blocks/sapphireore",
+    "particle": "zeiyocraft:blocks/sapphireore"
+  }
+}

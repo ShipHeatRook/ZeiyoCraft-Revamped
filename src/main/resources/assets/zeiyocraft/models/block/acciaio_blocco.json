@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/steelblock",
+    "up": "zeiyocraft:blocks/steelblock",
+    "north": "zeiyocraft:blocks/steelblock",
+    "east": "zeiyocraft:blocks/steelblock",
+    "south": "zeiyocraft:blocks/steelblock",
+    "west": "zeiyocraft:blocks/steelblock",
+    "particle": "zeiyocraft:blocks/steelblock"
+  }
+}

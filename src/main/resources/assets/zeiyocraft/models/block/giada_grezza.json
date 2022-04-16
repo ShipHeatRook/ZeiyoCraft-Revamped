@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zeiyocraft:blocks/jadeore",
+    "up": "zeiyocraft:blocks/jadeore",
+    "north": "zeiyocraft:blocks/jadeore",
+    "east": "zeiyocraft:blocks/jadeore",
+    "south": "zeiyocraft:blocks/jadeore",
+    "west": "zeiyocraft:blocks/jadeore",
+    "particle": "zeiyocraft:blocks/jadeore"
+  }
+}

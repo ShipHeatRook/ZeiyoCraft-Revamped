@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "zeiyocraft:blocks/chilipepper_stage_2",
+    "particle": "zeiyocraft:blocks/chilipepper_stage_2"
+  }
+}

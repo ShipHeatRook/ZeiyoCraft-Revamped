@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "zeiyocraft:blocks/hempcrops_stage_1",
+    "particle": "zeiyocraft:blocks/hempcrops_stage_1"
+  }
+}
