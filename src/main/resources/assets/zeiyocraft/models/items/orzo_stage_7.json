@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "zeiyocraft:blocks/barleycrops_stage_7"
+  }
+}

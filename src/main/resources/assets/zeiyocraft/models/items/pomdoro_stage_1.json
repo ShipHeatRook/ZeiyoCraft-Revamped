@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "zeiyocraft:blocks/tomatocrops_stage_1"
+  }
+}
