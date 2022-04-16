@@ -1,0 +1,12 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "zeiyocraft:rame_grezzo"
+  },
+  "result": {
+    "item": "zeiyocraft:rame_lingotto"
+  }
+}

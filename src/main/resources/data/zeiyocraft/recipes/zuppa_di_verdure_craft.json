@@ -1,0 +1,26 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:carrot"
+    },
+    "1": {
+      "item": "minecraft:baked_potato"
+    },
+    "2": {
+      "item": "minecraft:pumpkin"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:zuppa_di_verdure",
+    "count": 1
+  }
+}

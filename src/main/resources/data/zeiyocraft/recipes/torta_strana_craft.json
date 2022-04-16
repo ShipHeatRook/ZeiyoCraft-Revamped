@@ -1,0 +1,42 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:milk_bucket"
+    },
+    "1": {
+      "item": "zeiyocraft:canapa_item"
+    },
+    "2": {
+      "item": "minecraft:milk_bucket"
+    },
+    "3": {
+      "item": "minecraft:sugar"
+    },
+    "4": {
+      "item": "minecraft:egg"
+    },
+    "5": {
+      "item": "minecraft:sugar"
+    },
+    "6": {
+      "item": "zeiyocraft:canapa_item"
+    },
+    "7": {
+      "item": "minecraft:wheat"
+    },
+    "8": {
+      "item": "zeiyocraft:canapa_item"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:torta_strana_intera",
+    "count": 1
+  }
+}

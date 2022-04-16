@@ -1,0 +1,26 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:giada"
+    },
+    "2": {
+      "item": "zeiyocraft:giada"
+    },
+    "3": {
+      "item": "zeiyocraft:giada"
+    },
+    "5": {
+      "item": "zeiyocraft:giada"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:armor_giada_boots",
+    "count": 1
+  }
+}

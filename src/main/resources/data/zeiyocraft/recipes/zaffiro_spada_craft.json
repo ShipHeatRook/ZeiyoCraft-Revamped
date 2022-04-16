@@ -1,0 +1,24 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "1": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:zaffiro_spada",
+    "count": 1
+  }
+}

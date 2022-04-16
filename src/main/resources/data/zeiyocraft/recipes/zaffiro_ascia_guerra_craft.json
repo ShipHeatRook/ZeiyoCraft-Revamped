@@ -1,0 +1,36 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "1": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "2": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "3": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "zeiyocraft:zaffiro"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:zaffiro_ascia_guerra",
+    "count": 1
+  }
+}

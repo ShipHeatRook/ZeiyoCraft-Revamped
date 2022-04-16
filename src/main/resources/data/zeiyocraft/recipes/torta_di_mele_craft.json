@@ -1,0 +1,23 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:apple"
+    },
+    "1": {
+      "item": "minecraft:egg"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:torta_di_mele",
+    "count": 1
+  }
+}

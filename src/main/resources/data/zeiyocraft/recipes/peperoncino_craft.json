@@ -1,0 +1,16 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "result": {
+    "item": "zeiyocraft:peperoncino_item",
+    "count": 1
+  }
+}

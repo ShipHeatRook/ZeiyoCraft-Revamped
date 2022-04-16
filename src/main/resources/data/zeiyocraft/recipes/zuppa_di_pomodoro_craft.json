@@ -1,0 +1,26 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:pomodoro_item"
+    },
+    "1": {
+      "item": "zeiyocraft:pomodoro_item"
+    },
+    "2": {
+      "item": "zeiyocraft:pomodoro_item"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:zuppa_di_pomodoro",
+    "count": 1
+  }
+}

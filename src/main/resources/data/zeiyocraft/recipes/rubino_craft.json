@@ -1,0 +1,16 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:rubino_blocco"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:rubino",
+    "count": 9
+  }
+}

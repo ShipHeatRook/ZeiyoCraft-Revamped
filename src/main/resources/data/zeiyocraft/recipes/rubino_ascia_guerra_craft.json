@@ -1,0 +1,36 @@
+{
+  "group": "zeiyocraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "zeiyocraft:rubino"
+    },
+    "1": {
+      "item": "zeiyocraft:rubino"
+    },
+    "2": {
+      "item": "zeiyocraft:rubino"
+    },
+    "3": {
+      "item": "zeiyocraft:rubino"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "zeiyocraft:rubino"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zeiyocraft:rubino_ascia_guerra",
+    "count": 1
+  }
+}
