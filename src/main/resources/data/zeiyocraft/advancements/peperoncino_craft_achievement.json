@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:blaze_powder"
+    },
+    "title": {
+      "translate": "advancements.peperoncino_craft_achievement.title"
+    },
+    "description": {
+      "translate": "advancements.peperoncino_craft_achievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "peperoncino_craft_achievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

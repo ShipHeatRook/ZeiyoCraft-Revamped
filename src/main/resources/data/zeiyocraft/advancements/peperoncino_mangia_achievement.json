@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "zeiyocraft:peperoncino_item"
+    },
+    "title": {
+      "translate": "advancements.peperoncino_mangia_achievement.title"
+    },
+    "description": {
+      "translate": "advancements.peperoncino_mangia_achievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "peperoncino_mangia_achievement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "zeiyocraft:peperoncino_craft_achievement"
+}
